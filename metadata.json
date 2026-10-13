@@ -1,0 +1,6 @@
+{
+  "name": "Khám Phá Tôi – Tôi Có Thế Mạnh Gì?",
+  "description": "Nền tảng giáo dục hướng nghiệp và khám phá thế mạnh qua 8 trạm trải nghiệm tương tác dành riêng cho học sinh lớp 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
